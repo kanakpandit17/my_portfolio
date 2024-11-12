@@ -173,7 +173,7 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/Kanak Resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a className="resume-button" href="https://drive.google.com/file/d/128nTjvOOYQM8s3NQPnS9bp8KYi0NBFpN/view?usp=sharing" target="_blank" rel="noopener noreferrer">
       Resume
     </a>
   );
